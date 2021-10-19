@@ -1,0 +1,22 @@
+.registration-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.registration-form p {
+    margin: 0;
+    font-weight: 500;
+}
+.registration-form input {
+    display: block;
+    margin-bottom: 12px;
+}
+.register-btn {
+    padding: 5px 10px;
+    border: 0;
+    border-radius: 10px;
+    background-color: #f95723;
+    color: white;
+    font-weight: 500;
+}

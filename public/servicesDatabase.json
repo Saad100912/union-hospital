@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Emergency",
+        "description": "Union Hospital operates one of the best Accident & Emergency Centre of Bangladesh with 6 beds. Services of Emergency Medicine: Trauma and non-trauma medical and surgical emergencies round the clock at the ground floor in level-1 of the hospital with a separate entrance. Emergency Centre is staffed with full-time experienced physicians, nurses and other supportive staff, who are specialized in all areas of Emergency Medicine. Services of Cardiac emergency: 24 hours emergency cardiac care service is available by full time cardiac team with defibrillator and cardiac monitor.",
+        "img": "https://media.istockphoto.com/photos/hospital-emergency-department-entrance-picture-id522421831"
+    },
+    {
+        "id": 2,
+        "title": "ICU",
+        "description": "An intensive care unit, or ICU, is a specialized section of a hospital that provides comprehensive and continuous care for persons who are critically ill and who can benefit from treatment. Services & Facilities: 1. 6 Beded ICU with six ventilator. 2. 24 hours supervision underguidence of highly trained Prof. Omar Faruque, consultant with 10 years overseas experience in ICU. 3. 24 hours presence of internist and ICU doctors. 4. 24 hours trained nursing staff for each individual patient. 5. Hi-Tech vital sign monitor for every patient. 6. Syringe & infusion pumps for metered medications and accurate volume infusions. 7. Ultramodern ventilator with monitoring facilities for patient's own breathing effort. 8. Instant electrolyte assessment in ICU. 9. Portable X-ray machine within ICU. 10. Bi-PAP machine. 11. Arterial blood gas analysis machine and portable cardiogram. 12. Haemodialysis facility by bedside dialysis machine for renal failure patient on ventilator",
+        "img": "https://media.istockphoto.com/photos/modern-empty-temporary-intensive-care-emergency-room-is-ready-to-picture-id1295301481"
+    },
+    {
+        "id": 3,
+        "title": "Surgery",
+        "description": "Union Hospital ensure about all types of surgery support of modern technology including C-arm, Operating microscope, Arthroscopy etc. Eight operation theatres are working round the clock with the guidance of experienced surgeons. Following operations are done regularly.Surgery Services: 1. General Surgery. 2. Advanced Laparoscopic Surgery (Cholecystectomy, Appendicectomy). 3. Head & Neck Surgery. 4. Hepatobilliary Surgery. 5. Upper GI Surgery. 6. Neuro Surgery. 7. Spine Surgery. 8. Knee replacement and Arthroscopic surgery. 9. Urology (Prostate, Kidney, Urinary bladder, Ureter, Urethra). 10. Paediatric Surgery",
+        "img": "https://media.istockphoto.com/photos/senior-experienced-male-doctor-in-surgical-uniform-picture-id1275072646"
+    },
+    {
+        "id": 4,
+        "title": "Cardiac Center",
+        "description": "Cardiac problems are very common now a days all over the world. It is also the number one cause of morbidity and mortality in Bangladesh. To serve the cardiac patients of our country at reasonable price. The IBN SINA Trust had started its cardiac unit from July 2012 . After its inception the cardiac center has already serve near 8000 patients in its indoor and out-door. The cardiac team has already done more than 4000 interventional procedure including coronary angiogram, coronary angioplasties, peripheral angiogram and angioplasties, carotid and cerebral angiogram and angioplasties, permanent pacemakers implementation, ICD and CRT implementation etc, Successfully in its state-of-the-art cathlab. There have been more than 1000 cases of successful cardiac and vascular surgeries already done like By pass Beating and non-beating surgery, valve replacement surgery, congenital heart diseases etc. The cardiac hospital is equipped with latest equipment and apparatus. There is a highly skilled team of interventional cardiologists, cardiac surgeons and cardiac anesthesiologist serving in the hospital round the clock. The prices of all procedures are very reasonable, the service is of internation. The cardiac centre has large good faith amongst the well served patients and is already reputed as a dependable one-stop centre for all cardiac ailments. The center is giving outdoor services to cardiac patients where 24 hours facility is providing for doing ECG, ECHO, ETT, colour and carotid Doppler.",
+        "img": "https://images.unsplash.com/photo-1579154491915-611e891d3a5b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+        "id": 5,
+        "title": "Oncology",
+        "description": "Union hospital oncology unit is situated in the 7th floor of A block. This units has 8 cabin and 5 beds with specially trained doctors and nurses and giving 24 hours service for indoor and out-door (OPD basis) cancer patients. The unit is air-conditioned and having central supply of oxygen facility for patients. The specially trained nurses, doctors and consultants are rendering services to the patients. Oncology Services: 1. 24/7 indoor and out-door service for cancer patient 2. 3. Central oxygen supply, 4. Dedicated number of physicians, 5. Specially trained nurses",
+        "img": "https://media.istockphoto.com/photos/rear-view-of-doctor-examining-cat-scan-reports-picture-id682154404"
+    },
+    {
+        "id": 6,
+        "title": "Diabetes Center",
+        "description": "Diabetes (Diabetes Mellitus) is classed as a metabolism disorder. Metabolism refers to the way our bodies use digested food for energy and growth. Most of what we eat is broken down into glucose. Glucose is a form of sugar in the blood. It is the principal source of fuel for our bodies. Our Diabetes Services: 1. Diabetes consultant at morning and evening, 2. Nutritionist Advice, 3. Counseling for the change of lifestyle and food habit, 4. Diabetes Health check up, 5. Consultant & Laboratories facilities for all department, 6. Comparably at low cost, 7. Consultant & Laboratories facilities for all department",
+        "img": "https://media.istockphoto.com/photos/blood-sugar-measurement-for-diabetes-pills-and-stethoscope-picture-id1213112567"
+    }
+]

@@ -1,0 +1,29 @@
+.header {
+    background-color: #f95723;
+}
+.nav-bar {
+    margin-left: 30px;
+}
+.nav-bar a {
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    font-weight: 500;
+    margin: 0 20px;
+}
+.header-login-btn {
+    text-decoration: none;
+    font-weight: 500;
+    background-image: linear-gradient(salmon, tomato);
+    font-size: 15px;
+    padding: 8px 20px;
+    border-radius: 10px;
+}
+.header-logout-btn {
+    font-weight: 500;
+    border: 0;
+    background-image: linear-gradient(crimson, red);
+    font-size: 15px;
+    padding: 8px 20px;
+    border-radius: 10px;
+}

@@ -1,0 +1,8 @@
+.see-more-btn {
+    text-decoration: none;
+    color: black;
+    border: 0;
+    background-image: linear-gradient(#ff7142, #f95723);
+    border-radius: 10px;
+    padding: 8px 12px;
+}
