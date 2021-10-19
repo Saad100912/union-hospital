@@ -3,13 +3,12 @@ import doctor1 from "../../../images/doctors/doctor-1.jpg";
 import doctor2 from "../../../images/doctors/doctor-2.jpg";
 import doctor3 from "../../../images/doctors/doctor-3.jpg";
 import doctor4 from "../../../images/doctors/doctor-4.jpg";
-import "./Doctors.css";
 
 const Doctors = () => {
     return (
-        <div className="container doctors-section">
+        <div className="container my-5 py-5">
             <h1 className="text-center">Meet our doctors</h1>
-            <div className="row g-4 my-5 doctors-container">
+            <div className="row g-4 my-5">
                 <div className="col-12 col-md-6">
                     <div className="row g-4">
                         <div className="col-12 col-md-4">

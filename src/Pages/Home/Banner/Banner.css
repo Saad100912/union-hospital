@@ -1,14 +1,6 @@
 .banner-container img {
     filter: brightness(80%);
 }
-.carousel-info {
-    left: 0%;
-    top: 40%;
-    text-align: left;
-    max-width: 500px;
-    left: auto;
-    padding: 5px;
-}
 .carousel-info h1,
 h6 {
     color: black;

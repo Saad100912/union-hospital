@@ -1,6 +1,6 @@
 # Union Hospital
 
-## Live site: <>
+## Live site: <https://union-hospital-3f4a5.web.app/>
 
 ### Healthcare related website.
 
@@ -14,12 +14,12 @@ This is a website which represents a hospital named Union Hospital.
 -   A doctors section which gives information of some of the doctors.
 -   A testimonial section which contains comments from some important persons.
 
-## Blogs
+## Blogs Page
 
 -   This page contains contains 6 different blogs.
 -   if I click on the read more button then I can read the full blog.
 
-## About Us
+## About Us Page
 
 -   This page gives information of why a patient should choose this hospital.
 -   It gives an overview of hospitals objectives.
